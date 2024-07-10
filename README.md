@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
 
 
-- Playing CTF's at spare time
+- CTF's at spare time
 - Currently learning Cibersegurity
 - Passionate about web hacking
 
